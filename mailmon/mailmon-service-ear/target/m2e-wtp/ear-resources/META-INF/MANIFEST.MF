@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: Alexey
+Class-Path: mailmon-model-1.0.jar spring-orm-4.1.4.RELEASE.jar spring-
+ beans-4.1.4.RELEASE.jar spring-core-4.1.4.RELEASE.jar spring-jdbc-4.1
+ .4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar persistence-api-1.0.2.jar 
+ spring-data-jpa-1.7.0.RELEASE.jar spring-data-commons-1.9.0.RELEASE.j
+ ar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.j
+ ar spring-aop-4.1.4.RELEASE.jar aopalliance-1.0.jar aspectjrt-1.8.2.j
+ ar slf4j-api-1.5.8.jar jcl-over-slf4j-1.5.8.jar orika-core-1.4.0.jar 
+ javassist-3.16.1-GA.jar paranamer-2.3.jar mailmon-service-api-1.0.jar
+  jackson-mapper-asl-1.9.13.jar jackson-core-asl-1.9.13.jar mailmon-li
+ quibase-1.0.jar
+Build-Jdk: 1.8.0_20
+Created-By: Maven Integration for Eclipse
+
